@@ -1,0 +1,4 @@
+C:\Users\asus\source\repos\CW week5\CW week5\obj\Debug\net8.0\CW week5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\CW week5\CW week5\obj\Debug\net8.0\CW week5.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\CW week5\CW week5\obj\Debug\net8.0\CW week5.AssemblyInfo.cs
+C:\Users\asus\source\repos\CW week5\CW week5\obj\Debug\net8.0\CW week5.csproj.CoreCompileInputs.cache
